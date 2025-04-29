@@ -3,7 +3,7 @@
 Este projeto apresenta um painel interativo desenvolvido no Power BI, com o objetivo de acompanhar a evolução de melhorias solicitadas por diferentes áreas e empresas. O painel permite uma visão estratégica e rápida do status de execução das iniciativas, facilitando a tomada de decisões gerenciais.
 - Link Power BI online: https://abrir.link/BeLcW
 
-  ![melhoria].
+  ![melhoria](relatorio.png)
 
 ### 🎯 Objetivo
 Fornecer uma visualização clara e dinâmica do andamento das ações de melhoria dentro da organização, respondendo às principais necessidades do time de gestão.
@@ -22,11 +22,11 @@ Classificação por tipo de ganho (Processo, Partes interessadas, Clientes inter
 Filtros interativos para facilitar a análise.
 
 ### Análise das Melhorias
-- Quantas melhorias foram solicitadas?
+#### Quantas melhorias foram solicitadas?
   
 Foram registradas 26 melhorias, abrangendo diferentes áreas e empresas.
 
-- Qual o status das melhorias?
+#### Qual o status das melhorias?
 
 Não iniciadas: 10 (38%)
 
@@ -36,17 +36,17 @@ Concluídas: 4 (15%)
 
 Atrasadas e despriorizadas: 4 (16% no total)
 
-- Quais áreas mais demandam melhorias?
+#### Quais áreas mais demandam melhorias?
   
 A área de Captação lidera com 12 solicitações, seguida por Cobrança (8) e Contas a Pagar (6).
 
-- Quais são os principais tipos de melhoria?
+#### Quais são os principais tipos de melhoria?
 
 Implementação/Revisão de BPMS – Tecnologia: 7 solicitações
 
 Implementação/Revisão de Políticas e Normativos – Estratégia: 6 solicitações
 
-- Quais são os tipos de ganho esperados com as melhorias?
+#### Quais são os tipos de ganho esperados com as melhorias?
 
 Ganho em Processos: 10 melhorias
 
