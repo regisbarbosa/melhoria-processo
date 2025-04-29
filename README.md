@@ -8,20 +8,7 @@ Este projeto apresenta um painel interativo desenvolvido no Power BI, com o obje
 ### 🎯 Objetivo
 Fornecer uma visualização clara e dinâmica do andamento das ações de melhoria dentro da organização, respondendo às principais necessidades do time de gestão.
 
-### Funcionalidades do Painel
-Total de melhorias solicitadas.
-
-Status das melhorias: Não iniciadas, Em andamento, Concluídas, Atrasadas e Despriorizadas.
-
-Distribuição por áreas e por empresas.
-
-Tipos de melhorias mais solicitadas.
-
-Classificação por tipo de ganho (Processo, Partes interessadas, Clientes internos e Financeiro).
-
-Filtros interativos para facilitar a análise.
-
-### Análise das Melhorias
+### Análise das Melhorias - Perguntas respondidas
 #### Quantas melhorias foram solicitadas?
   
 Foram registradas 26 melhorias, abrangendo diferentes áreas e empresas.
@@ -55,4 +42,22 @@ Impacto em Partes Interessadas: 7 melhorias
 Atendimento a Clientes Internos: 5 melhorias
 
 Ganho Financeiro: 4 melhorias
+
+### 🛠️ Ferramentas Utilizadas
+Power BI
+
+Power Query
+
+Modelagem Relacional
+
+DAX (Data Analysis Expressions)
+
+### 💡 Insights e Benefícios
+Este painel proporciona:
+
+Visão consolidada de iniciativas de melhoria;
+
+Acompanhamento por status, área, empresa e tipo de ganho;
+
+Apoio à priorização de ações e gestão estratégica de resultados.
 
