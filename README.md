@@ -29,9 +29,11 @@ A área de Captação lidera com 12 solicitações, seguida por Cobrança (8) e 
 
 #### Quais são os principais tipos de melhoria?
 
-Implementação/Revisão de BPMS – Tecnologia: 7 solicitações
+Implementação/ Revisão de Indicadores - Tecnologia: 5 solicitações
 
-Implementação/Revisão de Políticas e Normativos – Estratégia: 6 solicitações
+Implementação/ Revisão de RPA - Tecnologia: 5 solicitações
+
+Comunicação/ Treinamento - Pessoas: 4 solicitações
 
 #### Quais são os tipos de ganho esperados com as melhorias?
 
