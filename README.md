@@ -5,7 +5,7 @@ Este projeto apresenta um painel interativo desenvolvido no Power BI, com o obje
 
   ![melhoria](relatorio.png)
 
-- Há Tooltips na tabela "Tipo de Melhoria". Passe o mouse nos valores.
+- Há Tooltips na tabela "Tipo de Melhoria" que mostra o Tipo de Ganho com aquela melhoria. Passe o mouse nos valores.
 
   ![tooltips](tooltip.png)
 
