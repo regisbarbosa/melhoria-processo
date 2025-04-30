@@ -3,7 +3,7 @@
 Este projeto apresenta um painel interativo desenvolvido no Power BI, com o objetivo de acompanhar a evolução de melhorias solicitadas por diferentes áreas e empresas. O painel permite uma visão estratégica e rápida do status de execução das iniciativas, facilitando a tomada de decisões gerenciais.
 - Link Power BI online: https://abrir.link/BeLcW
 
-  ![melhoria](relatoriocor.png)
+  ![melhoria](relatoriofinal.png)
 
 - Há Tooltips na tabela "Tipo de Melhoria" que mostra o Tipo de Ganho com aquela melhoria. Passe o mouse nos valores.
 
