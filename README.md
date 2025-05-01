@@ -9,9 +9,12 @@ Este projeto apresenta um painel interativo desenvolvido no Power BI, com o obje
 
   ![tooltips](tooltip.png)
 
+---
 
 ### 🎯 Objetivo
 Fornecer uma visualização clara e dinâmica do andamento das ações de melhoria dentro da organização, respondendo às principais necessidades do time de gestão.
+
+---
 
 ### Análise das Melhorias - Perguntas respondidas
 #### Quantas melhorias foram solicitadas?
@@ -50,6 +53,8 @@ Atendimento a Clientes Internos: 5 melhorias
 
 Ganho Financeiro: 4 melhorias
 
+---
+
 ### 🛠️ Ferramentas Utilizadas
 Power BI
 
@@ -58,6 +63,8 @@ Power Query
 Modelagem Relacional
 
 DAX (Data Analysis Expressions)
+
+---
 
 ### 💡 Insights e Benefícios
 Este painel proporciona:
